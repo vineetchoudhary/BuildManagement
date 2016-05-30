@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/vineetchoudhary/BuildManagement.svg?branch=master)](https://travis-ci.org/vineetchoudhary/BuildManagement)
+
 # Build Management
 Best way to Manage Development, Testing and Production builds with different settings and name.
 
